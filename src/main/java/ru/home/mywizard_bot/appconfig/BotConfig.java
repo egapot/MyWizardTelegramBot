@@ -12,7 +12,7 @@ import org.telegram.telegrambots.meta.ApiContext;
 import ru.home.mywizard_bot.MyWizardTelegramBot;
 import ru.home.mywizard_bot.botapi.TelegramFacade;
 
-//123
+
 @Setter
 @Getter
 @Configuration
